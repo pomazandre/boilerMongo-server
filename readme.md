@@ -1,4 +1,5 @@
-git
+The simple CRUD application based on MongoDB. 
+It is backend.
 
 notes
 GET /book/ — get all books
